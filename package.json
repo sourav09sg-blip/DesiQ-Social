@@ -17,5 +17,13 @@
   "bugs": {
     "url": "https://github.com/sourav09sg-blip/DesiQ-Social/issues"
   },
-  "homepage": "https://github.com/sourav09sg-blip/DesiQ-Social#readme"
+  "homepage": "https://github.com/sourav09sg-blip/DesiQ-Social#readme",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cookie-parser": "^1.4.7",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.9.4"
+  }
 }
