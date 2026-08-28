@@ -1,0 +1,21 @@
+{
+  "name": "desiq-social",
+  "version": "1.0.0",
+  "description": "Create a professional, premium, and visually striking website for my new digital marketing agency, DESIQ SOCIAL. DESIQ SOCIAL is a 360° digital marketing and creative growth agency based in Bathinda, Punjab, India. The website should feel like it was designed by a premium branding and creative agency—NOT like a generic corporate business website.",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sourav09sg-blip/DesiQ-Social.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sourav09sg-blip/DesiQ-Social/issues"
+  },
+  "homepage": "https://github.com/sourav09sg-blip/DesiQ-Social#readme"
+}
